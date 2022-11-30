@@ -106,7 +106,9 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/bchiang7/v4">
-          <div>Website design gratefully lent from Brittany Chiang</div>
+          <div>
+            Website design & code gratefully lent from Brittany Chiang, slightly modified by me
+          </div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
