@@ -3,12 +3,16 @@ module.exports = {
 
   socialMedia: [
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/woutervanwijk',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/wouter-van-wijk/',
+    },
+    {
+      name: 'Mastodon',
+      url: 'https://mastodon.social/@touwer',
+    },
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/woutervanwijk',
     },
     {
       name: 'GitHub',
