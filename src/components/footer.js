@@ -123,6 +123,9 @@ const Footer = () => {
             </div>
           )}
         </a>
+        <a href="https://mastodon.social/@touwer" rel="me">
+          M
+        </a>
       </StyledCredit>
     </StyledFooter>
   );
