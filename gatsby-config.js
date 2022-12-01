@@ -5,7 +5,7 @@ module.exports = {
     title: 'Wouter van Wijk',
     description: 'Wouter van Wijk. Journalist & Developer.',
     siteUrl: 'https://www.woutervanwijk.nl', // No trailing slash allowed!
-    image: '', // Path to your image you placed in the 'static' folder
+    image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@woutervanwijk',
   },
   plugins: [

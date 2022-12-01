@@ -2,7 +2,7 @@
 date: '1'
 title: 'Meeting Time'
 github: ''
-external: 'http://www.jannemijn.nl/'
+external: 'http://www.woutervanwijk.nl/meetingtime'
 tech:
   - Javascript
   - JQuery Mobile

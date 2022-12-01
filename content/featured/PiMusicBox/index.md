@@ -15,4 +15,4 @@ tech:
 
 Connecting some dots
 
-Pi MusicBox started out with an itch. I really liked Spotify, but there was no good and affordable way to connect it easily to my audioset in my living room. I built my own solution by connecting a couple of seperate open source projects with the Raspberry Pi minicomputer. (The project is no longer maintained)
+Pi MusicBox started out with an itch. I really liked Spotify, but there was no good and affordable way to connect it easily to my audioset in my living room. I built my own solution by connecting a couple of seperate open source projects with the Raspberry Pi minicomputer. It was so popular, it got in total 2.5K stars on Github.

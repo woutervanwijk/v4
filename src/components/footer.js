@@ -107,7 +107,7 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <a href="https://github.com/bchiang7/v4">
           <div>
-            Website design & code gratefully lent from Brittany Chiang, slightly modified by me
+            Website design & code gratefully lent from Brittany Chiang, slightly modified by
           </div>
 
           {githubInfo.stars && githubInfo.forks && (
@@ -122,9 +122,6 @@ const Footer = () => {
               </span>
             </div>
           )}
-        </a>
-        <a href="https://mastodon.social/@touwer" rel="me">
-          M
         </a>
       </StyledCredit>
     </StyledFooter>
