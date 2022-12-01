@@ -1,10 +1,11 @@
 ---
-date: '1'
+date: '4'
 title: 'Files with Tags'
 # github: 'https://github.com/bchiang7/fontipsums/'
 external: '/tag_based_file_management.pdf'
+cover: './tagbased.png'
 tech:
-  - OS
+  - Operating Systems
 showInProjects: true
 ---
 
