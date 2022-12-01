@@ -88,6 +88,12 @@ const Loader = ({ finishLoading }) => {
       <div className="logo-wrapper">
         <IconLoader />
       </div>
+      <a href="https://mastodon.social/@touwer" rel="me">
+        {' '}
+      </a>
+      <a href="https://mastodon.nl/@touwer" rel="me">
+        {' '}
+      </a>
     </StyledLoader>
   );
 };
