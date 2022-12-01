@@ -7,4 +7,4 @@ external: 'https://www.trouw.nl/binnenland/het-is-moeilijk-voor-te-stellen-dat-h
 showInProjects: true
 ---
 
-Reportage voor Trouw
+Reportage/Interview voor Trouw, over de geschiedenis van de Nazi's op de Utrechtse Malibaan

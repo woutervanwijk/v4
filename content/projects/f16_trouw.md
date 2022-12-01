@@ -7,4 +7,4 @@ external: 'https://www.trouw.nl/binnenland/het-nationaal-militair-museum-toont-d
 showInProjects: true
 ---
 
-Reportage voor Trouw, over de historie van de F16
+Reportage voor Trouw, over de historie van de F-16

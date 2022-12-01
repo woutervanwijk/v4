@@ -7,4 +7,4 @@ external: '/docs/interview_vriendin_borst.png'
 showInProjects: true
 ---
 
-Spraakmakend interview met de vriendin van Els Borst, de dag nadat ze haar dood had gevonden in de garage
+Spraakmakend interview in AD, met de vriendin van Els Borst, de dag nadat ze haar dood had gevonden in de garage
