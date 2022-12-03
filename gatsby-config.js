@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Wouter van Wijk',
     description: 'Wouter van Wijk. Journalist & Developer.',
-    siteUrl: 'https://www.woutervanwijk.nl', // No trailing slash allowed!
+    siteUrl: 'https://www.wouter.info', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@woutervanwijk',
   },

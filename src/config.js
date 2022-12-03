@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'woutervanwijk@gmail.com',
+  email: 'wouter@wouter.info',
 
   socialMedia: [
     {
@@ -9,6 +9,10 @@ module.exports = {
     {
       name: 'Mastodon',
       url: 'https://mastodon.social/@touwer',
+    },
+    {
+      name: 'Mastodon',
+      url: 'https://mastodon.nl/@touwer',
     },
     {
       name: 'Twitter',
