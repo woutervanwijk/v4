@@ -1,7 +1,7 @@
 ---
 date: '6'
 title: 'MSX Menu Master'
-external: ''
+external: '/img/projects/msx.png'
 cover: './msx.png'
 tech:
   - Basic, Assembly

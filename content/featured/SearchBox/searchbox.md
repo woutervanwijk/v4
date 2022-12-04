@@ -6,7 +6,7 @@ cover: './searchbox.png'
 tech:
   - Browser UX
   - Search
-external: './searchbox.png'
+external: '/img/projects/searchbox.png'
 showInProjects: true
 ---
 

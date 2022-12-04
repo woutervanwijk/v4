@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'Newssites'
-external: ''
+external: '/img/projects/parool.png'
 cover: './parool.png'
 tech:
   - Javascript

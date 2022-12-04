@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Printing Dialog'
-external: ''
+external: '/img/projects/printing.png'
 cover: './printing.png'
 tech:
   - Javascript

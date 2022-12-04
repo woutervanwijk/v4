@@ -2,8 +2,8 @@
 date: '4'
 title: 'Meeting Time'
 github: ''
-external: 'http://www.woutervanwijk.nl/meetingtime'
-external: './meetingtime.png'
+external: 'http://www.wouter.info/meetingtime'
+cover: './meetingtime.png'
 tech:
   - Javascript
   - JQuery Mobile

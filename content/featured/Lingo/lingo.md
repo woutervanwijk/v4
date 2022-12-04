@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'Lingo voor Windoos'
-external: ''
+external: 'http://www.geocities.ws/lingovw/'
 cover: './lingo.png'
 tech:
   - Visual Basic

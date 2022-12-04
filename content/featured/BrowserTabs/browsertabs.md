@@ -2,7 +2,7 @@
 date: '4'
 title: 'Tabbed browsing'
 github: ''
-external: ''
+external: '/img/projects/browsertabs.png'
 cover: './browsertabs.png'
 tech:
   - Browser UX

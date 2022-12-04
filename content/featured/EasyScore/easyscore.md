@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'EasyScore'
-external: ''
+external: '/img/projects/easyscore.png'
 cover: './easyscore.png'
 tech:
   - Visual Basic

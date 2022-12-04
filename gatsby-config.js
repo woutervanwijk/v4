@@ -16,18 +16,18 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: 'Wouter van Wijk',
-        short_name: 'Wouter van Wijk',
-        start_url: '/',
-        background_color: config.colors.darkNavy,
-        theme_color: config.colors.navy,
-        display: 'minimal-ui',
-        icon: 'src/images/logo.png',
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: 'Wouter van Wijk',
+    //     short_name: 'Wouter van Wijk',
+    //     start_url: '/',
+    //     background_color: config.colors.darkNavy,
+    //     theme_color: config.colors.navy,
+    //     display: 'minimal-ui',
+    //     icon: 'src/images/logo.png',
+    //   },
+    // },
     `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,

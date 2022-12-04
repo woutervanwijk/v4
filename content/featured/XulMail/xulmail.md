@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Thunderbird in a browser'
-external: ''
+external: '/img/projects/xulmail.png'
 cover: './xulmail.png'
 tech:
   - XUL
